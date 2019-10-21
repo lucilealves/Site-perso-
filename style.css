@@ -1,4 +1,19 @@
 h1 {
   text-align: center;
+  color: black;
+}
+section#reseaux {
+  text-align: center;
+  background-image: url("img/background 2.jpg");
+}
+
+h2 {
+  text-align: center;
   color: grey;
+}
+section#slogan {
+  background-color: black;
+}
+section {
+  margin: 0;
 }
